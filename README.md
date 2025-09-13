@@ -1,2 +1,0 @@
-# forgot-password
-forgot password
